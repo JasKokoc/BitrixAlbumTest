@@ -1,0 +1,5 @@
+<?php
+$MESS['PERSONAL_SEARCH_EMPTY'] = 'Nothing found.';
+$MESS['PERSONAL_SEARCH_PRODUCTS'] = 'Products';
+$MESS['PERSONAL_SEARCH_FILES'] = 'Files';
+$MESS['PERSONAL_SEARCH_TEXT'] = 'Text';

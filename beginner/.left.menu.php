@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Альбомы", 
+		"/albums/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Выход", 
+		"/?logout=yes", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"", 
+		"", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
